@@ -1,4 +1,4 @@
 def hamburger(toppings)
-      puts "Hello"
+      puts "Hello, there how are you?"
   end
 end
